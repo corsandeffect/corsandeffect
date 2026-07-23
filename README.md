@@ -21,6 +21,6 @@ I build lightweight, functional browser extensions designed to solve everyday wo
 ## 📬 Contact & Support
 If you are looking at my projects on SideProjectors or need support regarding an extension, feel free to reach out:
 * **Email**: `corsandeffect@gmail.com`
-* **SideProjectors**: `https://www.sideprojectors.com/user/profile/247960/`
+* **SideProjectors**: [CORS and Effect](https://www.sideprojectors.com/user/profile/247960/) 
 
 ---
