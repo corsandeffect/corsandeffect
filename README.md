@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm CORS and Effect 👋
 
-<!--
-**corsandeffect/corsandeffect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build lightweight, functional browser extensions designed to solve everyday workflow problems and improve productivity. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Focus
+* **Platforms**: Google Chrome, Mozilla Firefox, Microsoft Edge
+* **Core Tech**: JavaScript, WebExtensions API, HTML5, CSS3
+* **Design Philosophy**: Minimalist UI, zero bloat, and maximum privacy.
+
+---
+
+## 🚀 Featured Extension
+* **Client-Sidecar AI** - A 100% client-sided, zero-overhead Manifest V3 Chrome extension boilerplate that lets users bring their own API keys for private OpenAI, Claude, and Gemini access. 
+  * 🌐 **Listing Link**: [Listing coming soon on SideProjectors!](#)
+  * 🛠️ **Status**: Fully functional, stable, and ready for transition.
+
+---
+
+## 📬 Contact & Support
+If you are looking at my projects on SideProjectors or need support regarding an extension, feel free to reach out:
+* **Email**: `corsandeffect@gmail.com`
+* **SideProjectors**: `https://www.sideprojectors.com/user/profile/247960/`
+
+---
