@@ -12,7 +12,7 @@ I build lightweight, functional browser extensions designed to solve everyday wo
 ---
 
 ## 🚀 Featured Extension
-* **Client-Sidecar AI** - A 100% client-sided, zero-overhead Manifest V3 Chrome extension boilerplate that lets users bring their own API keys for private OpenAI, Claude, and Gemini access. 
+* **Client-Sidecar AI** - A 100% client-sided, zero-overhead Manifest V3 Chrome extension that lets users bring their own API keys for private OpenAI, Claude, and Gemini access. 
   * 🌐 **Listing Link**: [Coming soon on SideProjectors!](#)
   * 🛠️ **Status**: Fully functional, stable, and ready for transition.
 
