@@ -12,14 +12,14 @@ I build lightweight, functional browser extensions designed to solve everyday wo
 ---
 
 ## 🚀 Featured Extension
-* **Client-Sidecar AI** - A 100% client-sided, zero-overhead Manifest V3 Chrome extension that lets users bring their own API keys for private OpenAI, Claude, and Gemini access. 
-  * 🌐 **Listing Link**: [Coming soon on SideProjectors!](#)
-  * 🛠️ **Status**: Fully functional, stable, and ready for transition.
+* **YourKey AI: OpenAI, Claude and Gemini Side Panel** - A secure, local-storage AI side panel with direct-to-API connections powered by your own personal OpenAI, Claude, and Gemini keys.. 
+  * 🌐 **Listing Link**: [Coming soon!](#)
+  * 🛠️ **Status**: Fully functional, stable, and ready for launch.
 
 ---
 
 ## 📬 Contact & Support
-If you are looking at my projects on SideProjectors or need support regarding an extension, feel free to reach out:
+If you need support regarding an extension, feel free to reach out:
 * **Email**: `corsandeffect@gmail.com`
 * **SideProjectors**: [CORS and Effect](https://www.sideprojectors.com/user/profile/247960/) 
 
