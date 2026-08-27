@@ -13,7 +13,7 @@ I build lightweight, functional browser extensions designed to solve everyday wo
 
 ## 🚀 Featured Extension
 * **YourKey AI: OpenAI, Claude and Gemini Side Panel** - A secure, local-storage AI side panel with direct-to-API connections powered by your own personal OpenAI, Claude, and Gemini keys. 
-  * 🌐 **Listing Link**: [Coming soon!](#)
+  * 🌐 **Listing Link**: [YourKey AI](https://chromewebstore.google.com/detail/yourkey-ai-openai-claude/dlpopklnmgnpiefajcbfioedeeebfkmg)
   * 🛠️ **Status**: Fully functional, stable, and ready for launch.
 
 ---
