@@ -23,5 +23,3 @@ If you need support regarding an extension, feel free to reach out:
 * **Email:** `corsandeffect@gmail.com`
 * **Product Hunt:** [CORS and Effect](https://www.producthunt.com/@corsandeffect)
 * **SideProjectors:** [CORS and Effect](https://www.sideprojectors.com/user/profile/247960/) 
-
----
