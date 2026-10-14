@@ -11,11 +11,14 @@ I build lightweight, functional browser extensions designed to solve everyday wo
 
 ---
 
-## 🚀 Featured Extension
-* **YourKey AI: OpenAI, Claude and Gemini Side Panel** - A secure, local-storage AI side panel with direct-to-API connections powered by your own personal OpenAI, Claude, and Gemini keys. 
+## 🚀 Featured Extensions
+* **YourKey AI: BYOK Side Panel (OpenAI, Claude, Gemini)** - Connect with OpenAI, Claude and Gemini via direct-to-API from your browser — your keys and chat history stay on your device.
   * 🌐 **Listing Link:** [Chrome Web Store](https://chromewebstore.google.com/detail/yourkey-ai-openai-claude/dlpopklnmgnpiefajcbfioedeeebfkmg)
   * 🛠️ **Status:** Fully functional and launched.
 
+* **DeckBro AI: TikTok & Ecom Script Generator** - Turn Amazon & TikTok Shop pages into humanized UGC script decks — BYOK & 100% local storage for your privacy. 
+  * 🌐 **Listing Link:** [Chrome Web Store](https://chromewebstore.google.com/detail/deckbro-ai-tiktok-ecom-sc/lpacedhmicnfmhlmdedlnnmabjbldpfo)
+  * 🛠️ **Status:** Fully functional and launched.
 ---
 
 ## 📬 Contact & Support
